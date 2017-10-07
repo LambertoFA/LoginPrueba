@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Inicio de Sesión</string>
+    <string name="login_text_hint_correo_electronico">Correo electronico</string>
+    <string name="login_text_hint_contraseña">Contraseña</string>
+    <string name="login_text_tbn_entrar">Entarar</string>
+</resources>
